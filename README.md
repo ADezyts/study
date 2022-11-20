@@ -1,6 +1,6 @@
 ## My first meet with github and my first Home work🔥
 
-### This is a begining of my education in StepAcdemy. This home work 1, wich is dedicated to familiarization with remote work with github=)
+### This is a begining of my education in StepAcademy. This home work 1, wich is dedicated to familiarization with remote work with github=)
 ***
 
 
