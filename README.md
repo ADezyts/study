@@ -8,4 +8,6 @@
 
 1. clone repo
 2. open folder on vscode
-3. write in terminal - python /filename.py/
+3. write in terminal - python /filename.py/"# HW" 
+'/HW' 
+"HW" 
