@@ -2,5 +2,5 @@
 ***
 
  - BIG LEBOVSKI;
- - One time in Ireland;
- - Marriege in Malinowka
+ - Ones in Ireland;
+ - Marriege in Malinovka
