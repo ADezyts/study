@@ -1,13 +1,6 @@
-## My first meet with github and my first Home work🔥
+## My repository dedicated my study in IT-Academy STEP🔥
 
-### This is a begining of my education in StepAcademy. This home work 1, wich is dedicated to familiarization with remote work with github=)
-***
+### This repository including:
 
-
-### How it run?
-
-1. clone repo
-2. open folder on vscode
-3. write in terminal - python /filename.py/"# HW" 
-'/HW' 
-"HW" 
+1. Lesson folder wich contains the materials & class-works 👨‍🏫
+2. HW folder wich contains the home-works results 🧟
