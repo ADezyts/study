@@ -6,7 +6,10 @@
 
 ### What I have to do"
 
-1. criate a new repo for tasks
-2. push the new folder to created repo
-3. find perimetre & square of rectangle
-4. criate the picture of fir tree using pythoh
+task 1 - программа получает на вход число и затем выводит четное оно или нет
+
+task 2 - программа получает на вход 3 числа и затем выводит самое большее из них
+
+task 3 - вывести на экран десять строк из нулей, каждая строка пронумерована
+
+task 4 - записать в список все числа от 66 до 9999 кратные 7
